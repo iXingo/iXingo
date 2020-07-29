@@ -21,10 +21,10 @@ Hi, I'm Shawn Wang, a developer from China.
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://img.ixingo.cn/pic/java.png"></code>
-<code><img height="20" src="https://img.ixingo.cn/pic/node.png"></code>
-<code><img height="20" src="https://img.ixingo.cn/pic/js.png"></code>
-<code><img height="20" src="https://img.ixingo.cn/pic/python.png"></code>
+<img height="20" src="https://img.ixingo.cn/pic/java.png">
+<img height="20" src="https://img.ixingo.cn/pic/node.png">
+<img height="20" src="https://img.ixingo.cn/pic/js.png">
+<img height="20" src="https://img.ixingo.cn/pic/python.png">
 
 <!--- 
   if you have forked this to use on your profile, 
