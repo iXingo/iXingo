@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 Hi, I'm Shawn Wang, a developer from China.
 
 
-**Languages and Tools:**  
+**Focus on Languages and Tools:**  
 
 <img height="20" src="https://img.ixingo.cn/pic/java.png">Java 
 
