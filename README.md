@@ -39,7 +39,7 @@ Hi, I'm Shawn Wang, a developer from China.
 
 [![Shawn Wang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixingo&layout=compact)](https://github.com/Xingo)
 
-[![Shawn Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iXingo)](https://github.com/iXingo)
+<!-- [![Shawn Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iXingo)](https://github.com/iXingo)   -->
 
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
