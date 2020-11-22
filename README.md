@@ -35,7 +35,7 @@ Hi, I'm Shawn Wang, a developer from China.
 --->
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-[![Shawn Wang's github stats](https://github-readme-stats.vercel.app/api?username=ixingo)](https://github.com/Xingo)
+[![Shawn Wang's github stats](https://github-readme-stats.vercel.app/api?username=ixingo)](https://github.com/iXingo)
 
 [![Shawn Wang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixingo&layout=compact)](https://github.com/Xingo)
 
