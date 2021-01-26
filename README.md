@@ -21,6 +21,9 @@ Hi, I'm Shawn Wang, a developer from China.
 
 **Focus on Languages and Tools:**  
 
+
+Currently, I am focus on:
+
 <img height="10" src="https://img.ixingo.cn/pic/java.png">Java 
 
 <img height="10" src="https://img.ixingo.cn/pic/node.png">Node.js
