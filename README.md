@@ -24,13 +24,13 @@ Hi, I'm Shawn Wang, a developer from China.
 
 Currently, I am focus on:
 
-<img height="10" src="https://img.ixingo.cn/pic/java.png">Java 
+<img height="20" src="https://img.ixingo.cn/pic/java.png">Java 
 
-<img height="10" src="https://img.ixingo.cn/pic/node.png">Node.js
+<img height="20" src="https://img.ixingo.cn/pic/node.png">Node.js
 
-<img height="10" src="https://img.ixingo.cn/pic/js.png">ES6 
+<img height="20" src="https://img.ixingo.cn/pic/js.png">ES6 
 
-<img height="10" src="https://img.ixingo.cn/pic/python.png">Python
+<img height="20" src="https://img.ixingo.cn/pic/python.png">Python
 
 <!--- 
   if you have forked this to use on your profile, 
