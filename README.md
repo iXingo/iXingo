@@ -1,37 +1,40 @@
-<!--
-**iXingo/iXingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+## I'm a Full Stack Developer based in Zhangjiang, Shanghai!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I'm currently working on web applications using Java, JavaScript, and Python.
+- 🌱 I'm currently learning Go.
+- 👯 I'm looking to collaborate on open source projects.
+- 🥅 2023 Goals: Contribute more to open source projects.
+- ⚡ Fun fact: I love to play chess and go hiking.
+
+
+<!-- BLOG-POST-LIST:START 
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://xxx#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://xxx#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/yourusername#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/yourusername#gh-dark-mode-only)
 -->
 
-### Hi there, I'm [Shawn Wang!](https://ixingo.com.cn) 👋
+### Languages and Tools:
 
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+<!-- TODO: Add more badges -->
 
-Hi, I'm Shawn Wang, a developer from China.
+<!--### 📕 Latest Blog Posts
 
-
-**Focus on Languages and Tools:**  
-
-
-Currently, I am focus on:
-
-<img height="20" src="https://img.ixingo.cn/pic/java.png">Java 
-
-<img height="20" src="https://img.ixingo.cn/pic/node.png">Node.js
-
-<img height="20" src="https://img.ixingo.cn/pic/js.png">ES6 
-
-<img height="20" src="https://img.ixingo.cn/pic/python.png">Python
-
+ BLOG-POST-LIST:START 
+- [Your Blog Post Title Here](#)
+- [Another Blog Post Title Here](#)
+<!-- BLOG-POST-LIST:END -->
+-->
+<!-- TODO: Add more sections according to your preference. -->
 <!--- 
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
