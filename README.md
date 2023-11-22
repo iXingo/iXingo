@@ -2,11 +2,11 @@
 
 ## I'm a Full Stack Developer based in Zhangjiang, Shanghai!
 
-- 🔭 I'm currently working on web applications using Java, JavaScript, and Python.
+- 🔭 I'm working on web applications using Java, JavaScript, and Python.
 - 🌱 I'm currently learning Go.
-- 👯 I'm looking to collaborate on open source projects.
-- 🥅 2023 Goals: Contribute more to open source projects.
-- ⚡ Fun fact: I love to play chess and go hiking.
+- 👯 I'm looking to collaborate on open-source projects.
+- 🥅 2023 Goals: Contribute more to open-source projects.
+- ⚡ Fun fact: I love to play video games and travel.
 
 
 <!-- BLOG-POST-LIST:START 
