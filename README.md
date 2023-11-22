@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Shawn Wang] 👋
 
 ## I'm a Full Stack Developer based in Zhangjiang, Shanghai!
 
