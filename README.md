@@ -33,7 +33,7 @@
 - [Your Blog Post Title Here](#)
 - [Another Blog Post Title Here](#)
 <!-- BLOG-POST-LIST:END -->
--->
+
 <!-- TODO: Add more sections according to your preference. -->
 <!--- 
   if you have forked this to use on your profile, 
