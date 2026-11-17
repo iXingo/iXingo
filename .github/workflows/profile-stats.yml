@@ -3,7 +3,10 @@ name: Refresh profile stats
 on:
   push:
     branches: [master]
-    paths: [.github/workflows/profile-stats.yml]
+    paths:
+      - .github/workflows/profile-stats.yml
+      - .github/scripts/style-profile-cards.py
+      - .github/fonts/Geist-latin.woff2
   schedule:
     - cron: '27 2 * * *'
   workflow_dispatch:
@@ -40,6 +43,9 @@ jobs:
           path: profile/top-langs.svg
           core_version: ''
           fail_on_error: 'true'
+
+      - name: Apply card typography
+        run: python3 .github/scripts/style-profile-cards.py
 
       - name: Publish changed cards
         run: |
