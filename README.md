@@ -11,3 +11,8 @@ I'm open to collaborating on open-source projects. Outside of coding, I enjoy pl
 - [webpage-ui-legacy](https://github.com/iXingo/webpage-ui-legacy) — A React front end for a Spring Boot backend.
 - [docker-env](https://github.com/iXingo/docker-env) — A Docker-based development environment.
 - [dev-config](https://github.com/iXingo/dev-config) — Resources for setting up a new host.
+
+## GitHub Stats
+
+![GitHub activity stats](./profile/stats.svg)
+![Top languages across public repositories](./profile/top-langs.svg)
