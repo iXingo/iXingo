@@ -1,53 +1,13 @@
-# Hi there, I'm [Shawn Wang] 👋
+# Hi there, I'm Shawn Wang 👋
 
-## I'm a Full Stack Developer based in Zhangjiang, Shanghai!
+I'm a full-stack developer based in Shanghai. I build web applications with Java, JavaScript, and Python, and I'm learning Go.
 
-- 🔭 I'm working on web applications using Java, JavaScript, and Python.
-- 🌱 I'm currently learning Go.
-- 👯 I'm looking to collaborate on open-source projects.
-- 🥅 2023 Goals: Contribute more to open-source projects.
-- ⚡ Fun fact: I love to play video games and travel.
+I'm open to collaborating on open-source projects. Outside of coding, I enjoy playing video games and traveling.
 
+[Personal website](https://www.ixingo.com.cn/)
 
-<!-- BLOG-POST-LIST:START 
-### Connect with me:
+## Projects
 
-[![website](./img/globe-light.svg)](https://xxx#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://xxx#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![linkedin](./img/linkedin-light.svg)](https://linkedin.com/in/yourusername#gh-light-mode-only)
-[![linkedin](./img/linkedin-dark.svg)](https://linkedin.com/in/yourusername#gh-dark-mode-only)
--->
-
-### Languages and Tools:
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-<!-- TODO: Add more badges -->
-
-<!--### 📕 Latest Blog Posts
-
- BLOG-POST-LIST:START 
-- [Your Blog Post Title Here](#)
-- [Another Blog Post Title Here](#)
-<!-- BLOG-POST-LIST:END -->
-
-<!-- TODO: Add more sections according to your preference. -->
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-[![Shawn Wang's github stats](https://github-readme-stats.vercel.app/api?username=ixingo&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/iXingo)[![Shawn Wang's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ixingo&layout=donut-vertical)](https://github.com/iXingo)
-
-
-
-<!-- [![Shawn Wang's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=iXingo)](https://github.com/iXingo)   -->
-
-
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-
+- [webpage-ui-legacy](https://github.com/iXingo/webpage-ui-legacy) — A React front end for a Spring Boot backend.
+- [docker-env](https://github.com/iXingo/docker-env) — A Docker-based development environment.
+- [dev-config](https://github.com/iXingo/dev-config) — Resources for setting up a new host.
