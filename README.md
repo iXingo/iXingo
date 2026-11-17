@@ -1,10 +1,8 @@
 # Hi there, I'm Shawn Wang 👋
 
-I'm a full-stack developer based in Shanghai, interested in how software and networks fit together. I enjoy working across the stack, from refining a page or a sign-in flow to designing APIs and getting the application into production.
+I'm a full-stack developer based in Shanghai. I build web applications with TypeScript and Java, use Python for scripting, and am learning Go.
 
-I build and maintain [Xingou (星狗网)](https://www.ixingo.com.cn/), where I share writing, projects, and photography. I've been modernizing it with a Next.js frontend and a NestJS API, migrating the backend from Java and MySQL to TypeScript and MongoDB. I use Redis for caching and Docker and GitHub Actions for deployments.
-
-I also work with Java and Python, and I'm learning Go. I'm open to collaborating on open-source projects. Away from the keyboard, I enjoy video games, traveling, and photography.
+My frontend work includes responsive interfaces and authentication flows in React and Next.js. On the backend, I've built APIs with Spring Boot and NestJS, migrated data from MySQL to MongoDB, and used Redis for caching. I package services with Docker and automate builds and deployments with GitHub Actions.
 
 ## GitHub Stats
 

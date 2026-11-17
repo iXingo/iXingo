@@ -5,8 +5,7 @@ on:
     branches: [master]
     paths:
       - .github/workflows/profile-stats.yml
-      - .github/scripts/style-profile-cards.py
-      - .github/fonts/Geist-latin.woff2
+      - .github/scripts/render-profile-cards.py
   schedule:
     - cron: '27 2 * * *'
   workflow_dispatch:
@@ -31,7 +30,7 @@ jobs:
         with:
           card: stats
           options: 'disable_animations=true&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage'
-          path: profile/stats.svg
+          path: ${{ runner.temp }}/profile-card-data/stats.svg
           core_version: ''
           fail_on_error: 'true'
 
@@ -40,12 +39,12 @@ jobs:
         with:
           card: top-langs
           options: 'disable_animations=true&layout=donut-vertical&langs_count=6'
-          path: profile/top-langs.svg
+          path: ${{ runner.temp }}/profile-card-data/top-langs.svg
           core_version: ''
           fail_on_error: 'true'
 
-      - name: Apply card typography
-        run: python3 .github/scripts/style-profile-cards.py
+      - name: Render profile cards
+        run: python3 .github/scripts/render-profile-cards.py "$RUNNER_TEMP/profile-card-data"
 
       - name: Publish changed cards
         run: |
